@@ -1,0 +1,9 @@
+17:04:03:929 (5368) > --- NIXXES log start ---
+17:04:03:930 (5368) > 
+17:04:03:930 (5368) > Memory statistics:
+17:04:03:931 (5368) >   Total RAM = 13.9 GB (14213 MB)
+17:04:03:931 (5368) >   Avail RAM = 7.4 GB (7611 MB)
+17:04:03:932 (5368) >   Total virtual memory = 4.0 GB (4095 MB)
+17:04:03:932 (5368) >   Avail virtual memory = 3.4 GB (3441 MB)
+17:04:03:933 (5368) > OS = Windows 8 (build 9200)
+17:04:03:933 (5368) > Starting Tomb Raider v1.01.748.12
