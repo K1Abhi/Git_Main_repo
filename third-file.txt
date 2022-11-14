@@ -1,0 +1,8 @@
+17:04:10:261 (15480) > CreateSwapChain() = 0
+17:04:10:261 (15480) > MakeWindowAssociation() = 0
+17:04:10:541 (15480) > SetFullscreenState() = 0
+17:04:10:746 (5368) > [Render] Using DirectX 11
+17:04:11:058 (5368) > Initalizing audio...
+17:04:11:138 (5368) > Audio device found. FMOD reports 2 driver(s).
+17:04:11:138 (5368) > Audio Driver Name: Headphone (Realtek(R) Audio)
+17:04:11:140 (5368) > Speaker Mode: 2
